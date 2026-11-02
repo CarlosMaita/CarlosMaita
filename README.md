@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 **Laravel Developer** with over 10 years of professional software development experience.
+- 👨‍💻 **Laravel Developer** with over 5 years of professional software development experience.
 - 🛠️ Passionate about **Laravel**, **Vue.js**, and building innovative solutions.
 - 🤖 Enthusiastic about learning new skills every day, especially in AI tools and automation.
 - 🎓 Recently graduated with an **MBA**—I love building businesses and turning ideas into reality.
